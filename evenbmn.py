@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+for x in range(y)
+  if(x%2==0)
+    print(x)
